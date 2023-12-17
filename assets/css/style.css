@@ -56,7 +56,7 @@ p {
 
 /* Figure (image) formatting: */
 
-.figure {
+figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -87,7 +87,7 @@ p {
 
 /* Aside formatting: */
 
-.aside {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -204,7 +204,7 @@ p {
 
 /* Footer formatting: */
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
