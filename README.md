@@ -1,2 +1,13 @@
-# accessibility-ch01
- A professional webpage that follows industry standards for accessibility. (Bootcamp Challenge 01)
+# Accessibility (Ch 01)
+
+## Description
+
+The HoriSEOn site on Search Engine Optimization provides a useful example for accessibility practices in the industry.
+
+## Usage
+
+Link to site, screencap of site
+
+## Credits
+
+Image credits??, links to resources used
