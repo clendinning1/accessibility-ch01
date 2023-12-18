@@ -1,8 +1,8 @@
 /* 1|| General formatting: */
 * {
     box-sizing: border-box;
-    padding: 0;
     margin: 0;
+    padding: 0;
 }
 
 body {
@@ -21,9 +21,9 @@ span {
 /* 2|| Header formatting: */
 
 header {
+    background-color: #2a607c;
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
     color: #ffffff;
 }
 
@@ -42,10 +42,10 @@ nav {
 
 nav a {
     display: inline-block;
-    color: #ffffff;
-    text-decoration: none;
-    margin-left: 5px;
     margin-right: 20px;
+    margin-left: 5px;
+    text-decoration: none;
+    color: #ffffff;
 }
 
 nav a:hover {
@@ -62,20 +62,20 @@ figure {
 figure img {
     display: block;
     position: center;
-    margin-left: auto;
-    margin-right: auto;
-    height: 800px;
-    width: 100%;
     object-fit: cover;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    height: 800px;
 }
 
 
 /* 4|| Content formatting: */
 
 content {
-    width: 75%;
     display: inline-block;
     margin-left: 20px;
+    width: 75%;
 }
 
 h2 {
@@ -88,10 +88,10 @@ h2 {
 #content-orm,
 #content-smm {
     margin-bottom: 20px;
+    background-color: #0072bb;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
     color: #ffffff;
 }
 
@@ -104,8 +104,8 @@ h2 {
 
 #content-seo img,
 #content-smm img {
-    padding-right: 30px;
     float: left;
+    padding-right: 30px;
 }
 
 #content-orm img {
@@ -116,14 +116,14 @@ h2 {
 /* 5|| Aside formatting: */
 
 aside {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
     float: right;
+    clear: both;
+    margin-right: 20px;
+    background-color: #2589bd;
+    padding: 20px;
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
 }
 
 h3 {
@@ -152,8 +152,8 @@ h3 {
 /* 6|| Footer formatting: */
 
 footer {
-    padding: 30px;
     clear: both;
+    padding: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
