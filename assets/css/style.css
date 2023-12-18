@@ -74,9 +74,9 @@ content {
     margin-left: 20px;
 }
 
-.content-seo,
-.content-orm,
-.content-smm {
+#content-seo,
+#content-orm,
+#content-smm {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -85,20 +85,19 @@ content {
     color: #ffffff;
 }
 
-.content-seo img,
-.content-orm img,
-.content-smm img {
+#content-seo img,
+#content-orm img,
+#content-smm img {
     max-height: 200px;
 }
 
-.content-seo img,
-.content-smm img {
-    max-height: 200px;
+#content-seo img,
+#content-smm img {
     padding-right: 30px;
     float: left;
 }
 
-.content-orm img {
+#content-orm img {
     float: right;
 }
 
