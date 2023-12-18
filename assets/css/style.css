@@ -1,4 +1,4 @@
-/* Overview */
+/* 1|| General formatting: */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -13,7 +13,12 @@ p {
     font-size: 16px;
 }
 
-/* Header formatting: */
+span {
+    color: #0d1d25;
+}
+
+
+/* 2|| Header formatting: */
 
 header {
     padding: 20px;
@@ -27,6 +32,7 @@ h1 {
     font-size: 48px;
 }
 
+/* Header links */
 nav {
     float: right;
     padding-top: 15px;
@@ -46,11 +52,8 @@ nav a:hover {
     color: #0d1d25;
 }
 
-span {
-    color: #0d1d25;
-}
 
-/* Figure (image) formatting: */
+/* 3|| Figure formatting: */
 
 figure {
     margin-bottom: 25px;
@@ -66,7 +69,8 @@ figure img {
     object-fit: cover;
 }
 
-/* Content formatting: */
+
+/* 4|| Content formatting: */
 
 content {
     width: 75%;
@@ -74,6 +78,12 @@ content {
     margin-left: 20px;
 }
 
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Content section IDs */
 #content-seo,
 #content-orm,
 #content-smm {
@@ -85,6 +95,7 @@ content {
     color: #ffffff;
 }
 
+/* Content images */
 #content-seo img,
 #content-orm img,
 #content-smm img {
@@ -101,12 +112,8 @@ content {
     float: right;
 }
 
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
-/* Aside formatting: */
+/* 5|| Aside formatting: */
 
 aside {
     margin-right: 20px;
@@ -119,6 +126,12 @@ aside {
     background-color: #2589bd;
 }
 
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* Aside section classes */
 .aside-lead,
 .aside-brand,
 .aside-cost {
@@ -126,11 +139,7 @@ aside {
     color: #ffffff;
 }
 
-h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
+/* Aside images */
 .aside-lead img,
 .aside-brand img,
 .aside-cost img {
@@ -139,7 +148,8 @@ h3 {
     max-width: 150px;
 }
 
-/* Footer formatting: */
+
+/* 6|| Footer formatting: */
 
 footer {
     padding: 30px;
