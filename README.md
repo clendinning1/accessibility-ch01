@@ -7,7 +7,10 @@ The HoriSEOn site on Search Engine Optimization provides a useful example for ac
 ## Usage
 
 Deployed site: ()
-![Image of the deployed website.]()
+
+### Website Preview ###
+![Image of the deployed website.](./assets/images/sitepic1.JPG)
+![Image of the deployed website.](./assets/images/sitepic2.jpg)
 
 ## Credits
 
