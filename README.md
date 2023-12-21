@@ -10,7 +10,7 @@ Deployed site: ()
 
 ### Website Preview ###
 ![Image of the deployed website.](./assets/images/sitepic1.JPG)
-![Image of the deployed website.](./assets/images/sitepic2.jpg)
+![Image of the deployed website.](./assets/images/sitepic2.JPG)
 
 ## Credits
 
