@@ -6,7 +6,7 @@ The HoriSEOn site on Search Engine Optimization provides a useful example for ac
 
 ## Usage
 
-Deployed site: ()
+Deployed site: https://clendinning1.github.io/accessibility-ch01/
 
 ### Website Preview ###
 ![Image of the deployed website.](./assets/images/sitepic1.JPG)
@@ -31,4 +31,3 @@ Websites used as resource:
 14. https://fordinteractive.com/tools/propertyorder/propertyorder.css
 15. https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 16. https://www.digitalocean.com/community/tutorials/markdown-markdown-images
-17. https://www.markdownguide.org/cheat-sheet/
