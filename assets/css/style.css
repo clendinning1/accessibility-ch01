@@ -61,7 +61,6 @@ figure {
 
 figure img {
     display: block;
-    position: center;
     object-fit: cover;
     margin-right: auto;
     margin-left: auto;
